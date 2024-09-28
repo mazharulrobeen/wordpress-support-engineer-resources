@@ -48,7 +48,7 @@
 
 - Listen to **English podcasts** or **audiobooks**. Try [Podcasts in English](https://www.podcastsinenglish.com/) or [BBC Podcasts](https://www.bbc.co.uk/podcasts).
 - Watch videos with **subtitles** (e.g., on [YouTube](https://www.youtube.com/)).
-- Resourses:
+- Resources:
   - [English Listening Comprehension for Absolute Beginners](https://www.youtube.com/watch?v=9cGXFoYjru8&list=PL5bLw9Uguvv11fx6bS68yK5OeXAqLU3mW&pp=iAQB) 🆓
   - [English Listening Comprehension for Beginners](https://www.youtube.com/watch?v=i-zpCZRs2Io&list=PL5bLw9Uguvv3Mjnzd0YGmu-lGRWRWv-cU&pp=iAQB) 🆓
   - [English Listening Comprehension for Intermediate Learners](https://www.youtube.com/watch?v=ScZ48qN_ZWA&list=PL5bLw9Uguvv1VRVl3gHBt-FcM__k3UY9L&pp=iAQB) 🆓
@@ -73,7 +73,7 @@
   - [Dhaka Tribune](https://www.dhakatribune.com/)
   - [BDNews24](https://www.bdnews24.com/)
   - [The Bangladesh Today](https://thebangladeshtoday.com/)
-- **Resourses:**
+- **Resources:**
   - [American English Reading Practice for Absolute Beginners](https://www.youtube.com/watch?v=IfDJ5mgMeQ8&list=PL5bLw9Uguvv1pusxFOXlRr6hKbnyEDPpO&pp=iAQB) 🆓
   - [American English Intermediate Reading Practice](https://www.youtube.com/watch?v=URXt4Y5xuHc&list=PL5bLw9Uguvv20YNJzjrkEdsrZ5ffG_-eU&pp=iAQB) 🆓
   - [American English Advanced Reading Practice](https://www.youtube.com/watch?v=vYsCxYrzOls&list=PL5bLw9Uguvv3pJd1FZjbEJbv8qcrIvjgQ&pp=iAQB) 🆓
@@ -82,7 +82,7 @@
 
 - Start with simple tasks like a **daily journal**.
 - Progress to **emails**, **blog posts**, or even **short essays**.
-- **Resourses:**
+- **Resources:**
   - [IELTS - Writing Test Preparation](https://www.youtube.com/playlist?list=PLz49jcnhCN-iPNYD6RU2xqoik144fEraI) 🆓
 
 ## 9. Improve Pronunciation
@@ -92,11 +92,11 @@
   - [Pronunciation Mistakes](https://10minuteschool.com/en/product/pronunciation-mistakes/) 🆓
   - [Pronunciation Practice!](https://www.youtube.com/watch?v=n4NVPg2kHv4&list=PLD_5T89Ssbn3GrxrT28k9xEKwizeoPCjc&pp=iAQB) 🆓
 
-## ❤️ Favorite Resourses
+## ❤️ Favorite Resources
 
 #### Apps
 
-- [Doulingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en_GB)
+- [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en_GB)
 - [Elsa Speak](https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en_GB)
 - [দোভাষী: Dovashi Spoken English](https://play.google.com/store/apps/details?id=ridmik.dovashiapp&hl=en&gl=US)
 
