@@ -15,11 +15,8 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 - [CS Course](#cs-course)
 - [Short Sessions](#short-sessions)
 - [Improve English](#improve-english)
-  - [Course](#course)
-  - [YouTube Channels](#youtube-channels)
-  - [Mobile Apps](#mobile-apps)
 - [Crack Interview](#crack-interview)
-  - [Course](#course-1)
+  - [Course](#course)
   - [Questions](#questions)
 - [Tools](#tools)
   - [Text Expander](#text-expander)
@@ -42,32 +39,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 
 - [Support Starts Here - Lauren Jeffcoat](https://wordpress.tv/2017/08/31/support-starts-here/)
 
-## Improve English
-
-:star: :star: :star: Skillshare is only $14 for 12 months plus one month free. To get your free month, use my referral link here: [https://skl.sh/3SYTcly](https://skl.sh/3SYTcly) and apply the coupon code "**annual30aff**" for an additional 30% off. Unlock a world of learning opportunities with this amazing deal! :star: :star: :star:
-
-### Course
-
-- [American English Pronunciation](https://www.skillshare.com/en/classes/American-English-Pronunciation/819785776) :red_circle:
-- [English Grammar Pro | Beginner to Advanced (A1-C1)](https://www.skillshare.com/en/classes/English-Grammar-Pro-Beginner-to-Advanced-A1-C1/1240993655) :red_circle:
-- [Master Native English | Speaking Skills, Grammar, and More](https://www.skillshare.com/en/classes/Master-Native-English-Speaking-Skills-Grammar-and-More/838988170) :red_circle:
-
-### YouTube Channels
-
-- [TECCareerTalks with Khaza](https://www.youtube.com/c/CareerTalks) (BN)
-- [Munzereen Shahid](https://www.youtube.com/c/MunzereenShahid) (BN)
-- [Maisuns world](https://www.youtube.com/@maisunsworld) (BN) :100:
-- [mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma) (EN)
-- [linguamarina](https://www.youtube.com/c/linguamarina) (EN)
-- [English Fluency Journey](https://www.youtube.com/c/EnglishFluencyJourney) (EN)
-- [English Speaking Course](https://www.youtube.com/c/EnglishSpeakingCourses) (EN)
-- [Learn English with EnglishClass101.com](https://www.youtube.com/c/EnglishClass101) (EN)
-
-### Mobile Apps
-
-- [Elsa Speak](https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en&gl=US) :white_check_mark: :100: :heart:
-- [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US) :white_check_mark:
-- [দোভাষী: Dovashi Spoken English](https://play.google.com/store/apps/details?id=ridmik.dovashiapp&hl=en&gl=US) :white_check_mark: :100:
+## [Improve English](ENGLISH.md)
 
 ## Crack Interview
 
