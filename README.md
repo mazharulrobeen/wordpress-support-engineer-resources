@@ -38,7 +38,7 @@ I'm going to share some FREE and Paid resources here. Before purchasing any prem
 ## Short Sessions
 
 - [Support Starts Here - Lauren Jeffcoat](https://wordpress.tv/2017/08/31/support-starts-here/)
-
+- [Remote Customer Support Job - Remote Rocketship](https://www.remoterocketship.com/advice/guide/customer-support)
 ## [Improve English](ENGLISH.md)
 
 ## Crack Interview
